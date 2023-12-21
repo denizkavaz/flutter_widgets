@@ -1,2 +1,2 @@
 # flutter_widgets
-Ready to reuse widget with common styles.
+Ready to reuse widgets with common styles.
