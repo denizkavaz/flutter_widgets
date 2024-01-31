@@ -1,0 +1,14 @@
+// Some of packs for seraci.app
+
+** badges
+A package for creating badges. Badges can be used for an additional marker for any widget, e.g. show a number of items in a shopping cart.
+
+** font_awesome_flutter for other icons
+
+** email_validator
+
+** country_code_picker: ^3.0.0
+
+** card_swiper hem reklam hem hal fiyatları
+
+** weather: ^3.1.1 with geolocator plugin.
