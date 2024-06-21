@@ -1,4 +1,7 @@
 // Passing variable to widget
+// ? mark for null function
+// assign empty string for non-required 
+// remove required keywords
 
 class RepeatedListTile extends StatelessWidget {
   final String title;
