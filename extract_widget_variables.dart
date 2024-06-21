@@ -12,7 +12,7 @@ class RepeatedListTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () {},
+      onTap: onPressed,
       child:  ListTile(
         title: Text(title),
         subtitle: Text(subTitle),
