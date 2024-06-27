@@ -6,12 +6,12 @@ const snackBar = SnackBar(
   duration: Duration(seconds: 2),
 );
 
+// Tip: declare variables for snacbar customization in const/style
+
 
 
 // under state
-void showSnackBar() {
-    ScaffoldMessenger.of(context).showSnackBar(snackBar);
-  }
+
 
 final GlobalKey<ScaffoldMessengerState> _scaffoldKey = GlobalKey<ScaffoldMessengerState>(); 
 
