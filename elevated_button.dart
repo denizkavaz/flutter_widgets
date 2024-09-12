@@ -3,8 +3,8 @@ SizedBox(
             height: 50,
             child: ElevatedButton(
                 style: ButtonStyle(
-                    foregroundColor: MaterialStateProperty.all<Color>(Colors.white),
-                    backgroundColor: MaterialStateProperty.all<Color>(Colors.red),
+                    foregroundColor: WidgetStateProperty.all<Color>(Colors.red),
+                    backgroundColor: WidgetStateProperty.all<Color>(Colors.red),
                     alignment: Alignment.centerLeft,
                     textStyle: MaterialStateProperty.all<TextStyle>(TextStyle(fontSize: 16, fontWeight: FontWeight.w500,)),
                     shape: MaterialStateProperty.all<RoundedRectangleBorder>(
